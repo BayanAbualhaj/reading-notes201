@@ -13,3 +13,4 @@ Every class I attened to have a diffrent assigment every **day** and its has a v
 * [ ***class05*** ](https://bayanabualhaj.github.io/reading-notes201/class-05)
 * [ ***class06*** ](https://bayanabualhaj.github.io/reading-notes201/class-06)
 * [ ***class07*** ](https://bayanabualhaj.github.io/reading-notes201/class-07)
+* [ ***class08*** ](https://bayanabualhaj.github.io/reading-notes201/class-08)
