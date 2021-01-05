@@ -34,5 +34,7 @@ and left or right it should be placed.
 
 ![screenshot19](https://raw.githubusercontent.com/BayanAbualhaj/reading-notes201/main/pics/Screenshot%20(19).png)
 
-*	Liquid layout designs stretch and contract as the user increases or decreases the size of their browser window. They tend to use percentages
+*	Liquid layout designs stretch and contract as the user increases or decreases the size of their browser window.They tend to use percentages
+
+
 ![screenshot20](https://raw.githubusercontent.com/BayanAbualhaj/reading-notes201/main/pics/Screenshot%20(20).png)
