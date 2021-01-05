@@ -6,7 +6,7 @@
 * CSS treats each HTML element as if it is in its
 own box. This box will either be a block-level
 box or an inline box.
-![screenshot16]()
+![screenshot16](https://raw.githubusercontent.com/BayanAbualhaj/reading-notes201/main/pics/Screenshot%20(16).png)
 
 * If one block-level element sits inside another
 block-level element then the outer box is
@@ -16,13 +16,13 @@ known as the containing or parent element.
 1. normal flow
 2. relative positioning
 3. absolute
-![screenshot17]()
+![screenshot17](https://raw.githubusercontent.com/BayanAbualhaj/reading-notes201/main/pics/Screenshot%20(17).png)
 
 * **box offset** properties to tell the browser how far from the top or bottom
 and left or right it should be placed.
 1. fixed position 
 2. floating position
-![screenshot18]()
+![screenshot18](https://raw.githubusercontent.com/BayanAbualhaj/reading-notes201/main/pics/Screenshot%20(18).png)
 
 ### **screen size**
 
@@ -32,7 +32,7 @@ and left or right it should be placed.
 
 *	Fixed width layout designs do not change size as the user increases or decreases the size of their browser window. Measurements tend to be given in pixels.
 
-![screenshot19]()
+![screenshot19](https://raw.githubusercontent.com/BayanAbualhaj/reading-notes201/main/pics/Screenshot%20(19).png)
 
 *	Liquid layout designs stretch and contract as the user increases or decreases the size of their browser window. They tend to use percentages
-![screenshot20]()
+![screenshot20](https://raw.githubusercontent.com/BayanAbualhaj/reading-notes201/main/pics/Screenshot%20(20).png)
