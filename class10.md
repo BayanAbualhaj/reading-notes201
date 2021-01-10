@@ -16,7 +16,7 @@ mistakes when writing it.
 its own error object, which can tell you its line number
 and gives a description of the error. 
 
-![screenshot27](https://raw.githubusercontent.com/BayanAbualhaj/reading-notes201/main/pics/Screenshot%20(16).png)
+![screenshot27](https://raw.githubusercontent.com/BayanAbualhaj/reading-notes201/main/pics/Screenshot%20(27).png)
 
 
 ### How to deal with errors :
