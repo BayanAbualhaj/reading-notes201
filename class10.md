@@ -32,25 +32,5 @@ Use them to give your users helpful feedback.
 3. logging data in the console :The console helps narrow down the area in which the
 error is located, so you can try to find the exact error. 
 
-* ***event handeling*** :
-1. Select t he element node(s) you want the script to respond to.
-
-2. Indicate which event on the selected node(s) will trigger the response.
-3.  State the code you want to run when the event occurs. 
 
 
-## HTML
-
-### Forms
-
-* Traditionally, the term 'form' has referred
-to a printed document that contains
-spaces for you to fill in information.
-
-* There are several types of form controls that
-you can use to collect information from visitors
-to your site:
-
-![screenshot29](https://raw.githubusercontent.com/BayanAbualhaj/reading-notes201/main/pics/Screenshot%20(28).png)
-
-![screenshot28](https://raw.githubusercontent.com/BayanAbualhaj/reading-notes201/main/pics/Screenshot%20(28).png)
