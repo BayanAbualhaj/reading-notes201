@@ -30,6 +30,6 @@ a lot of storage space and its on the client persists beyond a page refresh and 
  If you want to keep track programmatically of when the storage area changes, you can trap the storage event.
 
 *** The storageevent object ***
-![screenshot30](https://raw.githubusercontent.com/BayanAbualhaj/reading-notes201/main/pics/Screenshot%20(31).png)
+![screenshot31](https://raw.githubusercontent.com/BayanAbualhaj/reading-notes201/main/pics/Screenshot%20(31).png)
 
 
