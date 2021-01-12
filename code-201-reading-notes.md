@@ -19,5 +19,5 @@ Every class I attened to have a diffrent assigment every **day** and its has a v
 * [ ***class11*** ](https://bayanabualhaj.github.io/reading-notes201/class11)
 * [ ***class12*** ](https://bayanabualhaj.github.io/reading-notes201/class12)
 * [ ***class13*** ](https://bayanabualhaj.github.io/reading-notes201/class13)
-* [ ***class14*** ](https://bayanabualhaj.github.io/reading-notes201/class14)
-* [ ***class15*** ](https://bayanabualhaj.github.io/reading-notes201/class15)
+* [ ***class14a*** ](https://bayanabualhaj.github.io/reading-notes201/class14a)
+* [ ***class14b*** ](https://bayanabualhaj.github.io/reading-notes201/class14b)
